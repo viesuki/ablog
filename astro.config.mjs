@@ -8,7 +8,7 @@ import { SITE } from "./src/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://viesuki.github.io/ablog",
+  site: "https://ab.viesuki.top",
   base: "",
   integrations: [
     tailwind({
